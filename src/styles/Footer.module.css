@@ -1,0 +1,18 @@
+.container {
+  display: flex;
+  flex: 1;
+  height: 64px;
+  border-top: 1px solid;
+  align-items: center;
+  justify-content: space-between;
+  padding: 1rem;
+}
+
+.container_left {
+  display: flex;
+  flex-direction: row;
+}
+
+.link {
+  padding: 5px;
+}
